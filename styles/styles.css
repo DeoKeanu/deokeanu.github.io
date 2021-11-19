@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color:indianred;
+    text-transform: uppercase;
+}
+
+li {
+    line-height: 3em;
+    
+}
+
+div {
+    width: 100%;
+    background-color: gold;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 0 0 10px #ffc400;
+}
+div:hover{
+    background-color:yellow;
+}
+
+a {
+    
+}
+
+a:link{
+    color:darksalmon;
+    text-decoration: none;
+}
+
+a:active {
+    color:aqua;
+}
+a:visited{
+    color:deeppink;
+}
+
+a:hover{
+    color: orange;
+}
