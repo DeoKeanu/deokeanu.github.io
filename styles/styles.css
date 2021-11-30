@@ -1,9 +1,11 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 h1 {
-    color:indianred;
+    color:darkviolet;
     text-transform: uppercase;
+    text-align: center;
 }
 
 li {
@@ -13,21 +15,25 @@ li {
 
 div {
     width: 100%;
-    background-color: gold;
+    background-color:aqua;
     text-align: center;
     margin-bottom: 10px;
     padding-top: 30px;
     padding-bottom: 30px;
-    box-shadow: 0 0 10px #ffc400;
 }
-div:hover{
-    background-color:yellow;
-}
-
 a {
-    
+    text-decoration: none;
 }
-
+div.secondBox {
+    background-color:pink;
+}
+div.thirdBox {
+    background-color:greenyellow;
+}
+div.fourthBox {
+    background-color: yellow;
+}
+/*
 a:link{
     color:darksalmon;
     text-decoration: none;
@@ -43,3 +49,4 @@ a:visited{
 a:hover{
     color: orange;
 }
+*/
