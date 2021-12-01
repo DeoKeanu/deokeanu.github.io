@@ -1,5 +1,5 @@
 html {
-    max-width: 350px;
+    /*max-width: 350px;*/
     border: 1px solid grey;
     margin: auto;
     
@@ -11,7 +11,6 @@ th {
 }
 
 body {
-    /*font-family: sans-serif;*/
     text-align: center;
 }
 hr {
