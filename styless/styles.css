@@ -2,7 +2,6 @@ html {
     max-width: 350px;
     border: 1px solid grey;
     margin: auto;
-    
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -11,11 +10,10 @@ th {
 }
 
 body {
-    /*font-family: sans-serif;*/
     text-align: center;
 }
 hr {
-    border-style: dashed;
+    border-style:dashed;
 }
 
 h1 {
@@ -32,15 +30,11 @@ div.infoatas {
 }
 
 a {
-    color: blue;
+    color:black;
     text-decoration: none;
 }
 a:visited {
-    color: grey;
-}
-
-a:hover {
-    color: rebeccapurple;
+    color: brown;
 }
 
 /*
